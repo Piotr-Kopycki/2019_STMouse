@@ -60,6 +60,7 @@ static void MX_I2C1_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+int16_t x,y;
 /* USER CODE END 0 */
 
 /**
